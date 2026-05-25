@@ -1,2 +1,55 @@
-# Customer-Churn-Analysis
-Developed a customer churn analysis dashboard using Python, SQL, and Power BI to visualize churn trends, customer behavior, contract analysis, and monthly charge insights through interactive KPIs and charts.
+# Customer Churn Analysis Dashboard
+
+## Project Overview
+This project analyzes customer churn behavior using Python, Machine Learning, SQL, and Power BI. The dashboard provides insights into customer retention, churn trends, contract analysis, and monthly charge distributions.
+
+---
+
+## Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+- SQL
+- Power BI
+
+---
+
+## Features
+- Customer churn count analysis
+- Gender vs churn analysis
+- Contract type analysis
+- Monthly charges analysis
+- Interactive slicers and KPI cards
+
+---
+
+## Dashboard KPIs
+- Total Customers
+- Churned Customers
+- Churn Distribution
+
+---
+
+## Business Insights
+- Month-to-month customers show higher churn rates
+- Customers with longer contracts have lower churn probability
+- Higher monthly charges are associated with increased churn
+
+---
+
+## Screenshots
+
+### Dashboard Overview
+![Dashboard](screenshots/dashboard.png)
+
+### Contract Type Analysis
+![Contract](screenshots/contract_analysis.png)
+
+### Monthly Charges Analysis
+![Monthly Charges](screenshots/monthly_charges.png)
+
+---
+
+## Dataset
+Telco Customer Churn Dataset
+
