@@ -37,19 +37,6 @@ This project analyzes customer churn behavior using Python, Machine Learning, SQ
 
 ---
 
-## Screenshots
-
-### Dashboard Overview
-![Dashboard](screenshots/dashboard.png)
-
-### Contract Type Analysis
-![Contract](screenshots/contract_analysis.png)
-
-### Monthly Charges Analysis
-![Monthly Charges](screenshots/monthly_charges.png)
-
----
-
 ## Dataset
 Telco Customer Churn Dataset
 
